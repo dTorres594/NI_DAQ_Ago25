@@ -1,1 +1,3 @@
 12:47:40.748 p. m. 11/08/2025	 New Module added, Name: NI DAQ Aug 25	 Type: Cloneable	 Description: DQMH Clonable module to insert panels into subpanels.
+01:12:10.392 p. m. 11/08/2025	 New Event added to: NI DAQ Aug 25.lvlib	 Type: Cloneable	 Name:Set device name	 Type:Request	 Scope:Public Request	 Description: Sets selected device name to private data cluster.
+01:22:25.042 p. m. 11/08/2025	 New Event added to: NI DAQ Aug 25.lvlib	 Type: Cloneable	 Name:Device name set	 Type:Broadcast	 Scope:Public Request	 Description: Triggers after the name of the device has been changed.

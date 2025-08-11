@@ -21,11 +21,13 @@
 				<Item Name="Get Module Execution Status Argument--cluster.ctl" Type="VI" URL="../Get Module Execution Status Argument--cluster.ctl"/>
 				<Item Name="Draw FP in subpanel Argument--cluster.ctl" Type="VI" URL="../Draw FP in subpanel Argument--cluster.ctl"/>
 				<Item Name="Remove from subpanel Argument--cluster.ctl" Type="VI" URL="../Remove from subpanel Argument--cluster.ctl"/>
+				<Item Name="Set device name Argument--cluster.ctl" Type="VI" URL="../Set device name Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
 				<Item Name="Status Updated Argument--cluster.ctl" Type="VI" URL="../Status Updated Argument--cluster.ctl"/>
 				<Item Name="Error Reported Argument--cluster.ctl" Type="VI" URL="../Error Reported Argument--cluster.ctl"/>
+				<Item Name="Device name set Argument--cluster.ctl" Type="VI" URL="../Device name set Argument--cluster.ctl"/>
 			</Item>
 		</Item>
 		<Item Name="Requests" Type="Folder">
@@ -35,6 +37,7 @@
 			<Item Name="Show Diagram.vi" Type="VI" URL="../Show Diagram.vi"/>
 			<Item Name="Draw FP in subpanel.vi" Type="VI" URL="../Draw FP in subpanel.vi"/>
 			<Item Name="Remove from subpanel.vi" Type="VI" URL="../Remove from subpanel.vi"/>
+			<Item Name="Set device name.vi" Type="VI" URL="../Set device name.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
@@ -52,6 +55,7 @@
 		<Item Name="Error Reported.vi" Type="VI" URL="../Error Reported.vi"/>
 		<Item Name="Module Did Stop.vi" Type="VI" URL="../Module Did Stop.vi"/>
 		<Item Name="Update Module Execution Status.vi" Type="VI" URL="../Update Module Execution Status.vi"/>
+		<Item Name="Device name set.vi" Type="VI" URL="../Device name set.vi"/>
 	</Item>
 	<Item Name="Requests" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
