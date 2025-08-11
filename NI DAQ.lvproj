@@ -18,6 +18,7 @@
 		<Item Name="Testers" Type="Folder">
 			<Item Name="Test NI DAQ Aug 25 API.vi" Type="VI" URL="../Libraries/NI DAQ Aug 25/Test NI DAQ Aug 25 API.vi"/>
 		</Item>
+		<Item Name="Get channels list.vi" Type="VI" URL="../Libraries/NI DAQ Aug 25/Get channels list.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
