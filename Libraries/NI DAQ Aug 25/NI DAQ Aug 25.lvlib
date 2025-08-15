@@ -21,6 +21,8 @@
 				<Item Name="Draw FP in subpanel Argument--cluster.ctl" Type="VI" URL="../Draw FP in subpanel Argument--cluster.ctl"/>
 				<Item Name="Remove from subpanel Argument--cluster.ctl" Type="VI" URL="../Remove from subpanel Argument--cluster.ctl"/>
 				<Item Name="Set device name Argument--cluster.ctl" Type="VI" URL="../Set device name Argument--cluster.ctl"/>
+				<Item Name="Write DO Argument--cluster.ctl" Type="VI" URL="../Write DO Argument--cluster.ctl"/>
+				<Item Name="Create DO channel Argument--cluster.ctl" Type="VI" URL="../Create DO channel Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -37,6 +39,8 @@
 			<Item Name="Draw FP in subpanel.vi" Type="VI" URL="../Draw FP in subpanel.vi"/>
 			<Item Name="Remove from subpanel.vi" Type="VI" URL="../Remove from subpanel.vi"/>
 			<Item Name="Set device name.vi" Type="VI" URL="../Set device name.vi"/>
+			<Item Name="Write DO.vi" Type="VI" URL="../Write DO.vi"/>
+			<Item Name="Create DO channel.vi" Type="VI" URL="../Create DO channel.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
