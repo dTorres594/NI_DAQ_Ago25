@@ -3,3 +3,5 @@
 01:22:25.042 p. m. 11/08/2025	 New Event added to: NI DAQ Aug 25.lvlib	 Type: Cloneable	 Name:Device name set	 Type:Broadcast	 Scope:Public Request	 Description: Triggers after the name of the device has been changed.
 01:33:48.400 p. m. 15/08/2025	 New Event added to: NI DAQ Aug 25.lvlib	 Type: Cloneable	 Name:Write DO	 Type:Request	 Scope:Public Request	 Description: Writes digital output to specified port.
 01:41:55.085 p. m. 15/08/2025	 New Event added to: NI DAQ Aug 25.lvlib	 Type: Cloneable	 Name:Create DO channel	 Type:Request	 Scope:Public Request	 Description: Creates a digital output channel with a a single or multiple lines.
+12:24:33.101 p. m. 18/08/2025	 NI DAQ Aug 25.lvlib	 Event: "Create DO channel"	 Duplicated to: NI DAQ Aug 25.lvlib	 with the name: "Create DI channel"
+12:35:56.695 p. m. 18/08/2025	 New Event added to: NI DAQ Aug 25.lvlib	 Type: Cloneable	 Name:Read DO	 Type:Request	 Scope:Public Request	 Description: Reads single or multiple DIs.

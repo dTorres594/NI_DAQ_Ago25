@@ -23,6 +23,9 @@
 				<Item Name="Set device name Argument--cluster.ctl" Type="VI" URL="../Set device name Argument--cluster.ctl"/>
 				<Item Name="Write DO Argument--cluster.ctl" Type="VI" URL="../Write DO Argument--cluster.ctl"/>
 				<Item Name="Create DO channel Argument--cluster.ctl" Type="VI" URL="../Create DO channel Argument--cluster.ctl"/>
+				<Item Name="Create DI channel Argument--cluster.ctl" Type="VI" URL="../Create DI channel Argument--cluster.ctl"/>
+				<Item Name="Read DI Argument--cluster.ctl" Type="VI" URL="../Read DI Argument--cluster.ctl"/>
+				<Item Name="Read DI (Reply Payload)--cluster.ctl" Type="VI" URL="../Read DI (Reply Payload)--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -41,6 +44,8 @@
 			<Item Name="Set device name.vi" Type="VI" URL="../Set device name.vi"/>
 			<Item Name="Write DO.vi" Type="VI" URL="../Write DO.vi"/>
 			<Item Name="Create DO channel.vi" Type="VI" URL="../Create DO channel.vi"/>
+			<Item Name="Create DI channel.vi" Type="VI" URL="../Create DI channel.vi"/>
+			<Item Name="Read DI.vi" Type="VI" URL="../Read DI.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
@@ -120,6 +125,15 @@
 		<Item Name="Get Module Running State.vi" Type="VI" URL="../Get Module Running State.vi"/>
 		<Item Name="Is Safe to Destroy Refnums.vi" Type="VI" URL="../Is Safe to Destroy Refnums.vi"/>
 		<Item Name="Module Running State--enum.ctl" Type="VI" URL="../Module Running State--enum.ctl"/>
+	</Item>
+	<Item Name="Controls" Type="Folder">
+		<Item Name="Acquisition type--typedef.ctl" Type="VI" URL="../Acquisition type--typedef.ctl"/>
+		<Item Name="Ports --typedef.ctl" Type="VI" URL="../Ports --typedef.ctl"/>
+	</Item>
+	<Item Name="Support" Type="Folder">
+		<Item Name="Get channels list.vi" Type="VI" URL="../Get channels list.vi"/>
+		<Item Name="Get acq type.vi" Type="VI" URL="../Get acq type.vi"/>
+		<Item Name="Num to array.vi" Type="VI" URL="../Num to array.vi"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
